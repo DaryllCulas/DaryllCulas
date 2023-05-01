@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="DaryllCulas/7jz05j.gif"  />
+<img align="right" height="150" src="7jz05j.gif"  />
 
 ###
 
