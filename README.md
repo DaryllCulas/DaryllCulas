@@ -1,6 +1,6 @@
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/102523400/217305123-39ba95b3-c73f-4301-9d66-716a5824ca45.gif)
 
-<h2 align="left">Hi 👋! My name is Daryll and I'm an aspirant penetration tester and backend developer</h2>
+<h2 align="left">Hi 👋! My name is Daryll and I'm an aspirant Penetration Tester and Full Stack developer</h2>
 
 ###
 
