@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+Name+is+Daryll+Culas;Aspirant+Full-Stack+Web+Developer;BSIT+Student;Coffee+connoisseur;)](https://git.io/typing-svg)
  
 <img align="center" width="850" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-      
+       
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/102523400/217305123-39ba95b3-c73f-4301-9d66-716a5824ca45.gif)
 
